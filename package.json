@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@jridgewell/sourcemap-codec": "^1.4.14",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -11,6 +12,9 @@
     "react-dom": "^18.2.0",
     "react-render-image": "^3.0.1",
     "react-scripts": "5.0.1",
+    "rollup-plugin-terser": "^7.0.2",
+    "sourcemap-codec": "^1.4.8",
+    "w3c-hr-time": "^1.0.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
